@@ -1,0 +1,58 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    height: 75vh;
+    display: flex;
+    align-items: center;
+}
+
+.col-md-6 {
+    margin: 0 auto;
+}
+
+h1 {
+    margin-bottom: 35px;
+}
+
+.row {
+    margin-bottom: 30px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+input::placeholder {
+    font-weight: 300;
+}
+
+.modal {
+    /* display: block; */
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-header {
+    background-color: #eee;
+}
+
+.dropdown-menu {
+    width: 100%;
+    border: none;
+}
+
+.dropdown-toggle:focus {
+    border: none;
+}
+
+.dropdown-item:hover {
+    background-color: #fff;
+}
+
+.dropdown-item:active {
+    background-color: #fff;
+    color: #000;
+}
