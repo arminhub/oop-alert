@@ -1,4 +1,4 @@
-# Ort‐Suche (Demo)
+# OOP Alert (Demo)
 
 ![Screenshot](documentation/assets/screenshot.png)
 
