@@ -6,7 +6,7 @@
 
 Diese Web-App bietet eine einfache Benutzeroberfläche mit einem Eingabefelder und kann Text, HTML und Arrays/Objekte als ein Modal „lesbar“ ausgeben. Ähnlich wie Entwickler-Konsole.
 
-Die Web-App wurde im Rahmen einer IT-Ausbildung am WIFI Wien für eine Pflichtübung **(Modul: Programmieren mit JavaScript ‐ Aufbau)** entwickelt.
+Im Rahmen meiner Ausbildung zum geprüften Software-Entwickler am WIFI Wien habe ich im Modul **"Programmieren mit JavaScript ‐ Aufbau"** diese Web-App als Übung entwickelt.
 
 ## Spezifikation
 
