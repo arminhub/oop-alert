@@ -1,4 +1,4 @@
-# OOP Alert (Demo)
+# OOP Alert
 
 ![Screenshot](documentation/assets/screenshot.png)
 
